@@ -1,0 +1,45 @@
+body {
+    background-image: url(https://cdn.wallpapersafari.com/36/67/sJFxey.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.toucan-img img {
+    padding: 10px;
+    max-width: 500px;
+    max-height: 400px;
+}
+
+.context {
+    display: flex;
+}
+
+.container {
+    margin: 30px;
+    padding: 15px;
+}
+
+p {
+    font-size: xx-large;
+    height: 20px;
+    color: azure;
+}
+
+h1 {
+    font-size: xx-large;
+    text-decoration: underline;
+    color: azure;
+}
+
+li {
+    list-style: none;
+    padding: 10px;
+}
+
+li a {
+    list-style: none;
+    color: azure;
+    font-size: x-large;
+    padding: 10px;
+}
+
