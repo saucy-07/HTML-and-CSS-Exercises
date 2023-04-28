@@ -1,0 +1,43 @@
+body {
+    justify-content: center;
+    align-content: center;
+}
+
+.container {
+    display: block;
+    width: 600px;
+    height: 900px;
+    justify-content: center;
+    align-content: center;
+    margin: 1% 33.3%;
+    padding: 10px;
+}
+
+.heading {
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.copy-right {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    padding: 10px;
+}
+
+.hit-counter {
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+.meet-jack {
+    font-style: italic;
+    font-weight: bold;
+}
