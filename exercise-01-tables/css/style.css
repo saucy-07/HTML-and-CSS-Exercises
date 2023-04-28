@@ -1,0 +1,25 @@
+.container {
+    margin: 0% 33.3%;
+}
+
+table {
+    border: solid black;
+    border-spacing: 0px;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+table th {
+    height: 15px;
+    text-align: center;
+}
+
+table td {
+    border: solid black;
+    text-align: left top;
+}
+
+img {
+    width: 250px;
+    height: 160px;
+}
