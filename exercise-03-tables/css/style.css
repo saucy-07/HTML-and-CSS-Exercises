@@ -1,0 +1,26 @@
+.container {
+    margin: 0% 33.3%;
+    padding: 0px 10px;
+}
+
+table {
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+}
+
+table tr {
+    border-style: solid;
+    border-color: black;
+}
+
+p {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}
+
+table tr td {
+    border-style: solid;
+    border-color: black;
+}
