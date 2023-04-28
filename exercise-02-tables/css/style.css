@@ -1,0 +1,32 @@
+.container {
+    margin: 0px 50px;
+    padding: 5px;
+    align-items: top left;
+    border-style: solid black;
+    width: 700px;
+}
+
+.links {
+    vertical-align: top;
+    width: 240px;
+}
+
+table tr td li {
+    vertical-align: top;
+    min-height: fit-content;
+    list-style: none;
+}
+
+table tr {
+    border-style: solid black;
+}
+
+th {
+    text-align: left;
+}
+
+.content {
+    width: 500px;
+    padding: 0px 10px;
+    margin: 0px 20px;
+}
